@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Noah, currently student at 42 Nice.
+I'm Noah, currently working at Gustave.
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,js,ts,html,css,py)](https://skillicons.dev)
 
@@ -8,4 +8,4 @@ I'm Noah, currently student at 42 Nice.
 
 ## Contact
 
-You can reach me at : nferre@student.42nice.fr
+You can reach me at : noah@gustave-auto.com
